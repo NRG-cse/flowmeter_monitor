@@ -1,0 +1,3 @@
+timestamp,instant_flow(m3/h),instant_velocity(m/s),flow_percentage(%),conductivity(uS/cm),positive_total(m3),negative_total(m3),upper_alarm,lower_alarm,empty_pipe_alarm,system_alarm
+2025-12-07T10:25:35.756212,9.395297040359907e-13,-1249.95703125,0,2.409532709406523e-41,0.0,0.0,0,0,0,0
+2025-12-07T10:27:34.304216,-5.478128173308505e-09,1.4119412583557533e-10,None,None,None,None,0,0,0,0

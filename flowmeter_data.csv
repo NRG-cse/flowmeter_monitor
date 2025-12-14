@@ -1,0 +1,8 @@
+timestamp,instant_flow,instant_velocity,flow_percentage,conductivity,positive_total,negative_total,upper_alarm,lower_alarm,empty_pipe_alarm,system_alarm
+2025-07-30T16:56:54.108747,,,,,,,None,None,None,None
+2025-07-30T17:38:19.815831,,,,,,,None,None,None,None
+2025-07-30T18:04:25.094107,,,,,,,None,None,None,None
+2025-07-30T18:07:08.918426,,,,,,,None,None,None,None
+2025-07-31T12:53:41.140109,4.591774807899561e-41,4.591774807899561e-41,0.0,-8608092160.0,None,None,0,0,1,0
+2025-07-31T12:54:50.514056,4.591774807899561e-41,4.591774807899561e-41,0.0,-2.004227638244629,None,None,0,0,1,0
+2025-07-31T12:55:59.950824,4.591774807899561e-41,4.591774807899561e-41,0.0,-2.004227638244629,None,None,0,0,1,0
